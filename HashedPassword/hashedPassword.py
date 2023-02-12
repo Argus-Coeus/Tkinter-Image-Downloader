@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 import hashlib
 from tkinter import *
-from tkinter import ttk
 from tkinter.font import BOLD
 from tkinter import messagebox
 
