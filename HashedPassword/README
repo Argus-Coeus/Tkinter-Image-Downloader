@@ -1,0 +1,15 @@
+USES
+Hashed Password App is use when you want to convert your 
+password into encrypted with 256,512 and MD5 encryption.
+
+
+REQUIREMENT 
+Your password
+
+USAGE
+1. Select one of the radio button 
+2. Type in your password in the entry button
+3. Submit to encrypt
+
+
+"""THANK YOU FOR USING OUR APP"""
