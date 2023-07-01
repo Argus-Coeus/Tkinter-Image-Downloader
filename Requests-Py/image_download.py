@@ -17,7 +17,7 @@ class Img(Tk):
        self.width = 500
        self.x =(self.winfo_screenwidth()//2) - (self.width//2)
        self.y =(self.winfo_screenheight()//2) - (self.height//2)
-       self.title("Caesar Cipher")
+       self.title("Image Download App")
        self.geometry('{}x{}+{}+{}'.format(self.width,self.height,self.x,self.y))
        self.resizable(False,False)
        self.configure(bg='Silver')
